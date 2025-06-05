@@ -1,10 +1,10 @@
 # SwinMVS
 ## CODE for **High-Resolution Multi-View Stereo with Multi-Scale Feature Fusion**
 ## Acquiring Datasets
-### DTU
-### BlendedMVS
-### Tanks&Temples
-### ETH3D
+DTU
+BlendedMVS
+Tanks&Temples
+ETH3D
 
 ## Requirements
 bash
