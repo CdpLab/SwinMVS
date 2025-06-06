@@ -1,5 +1,8 @@
-# SwinMVS
-## CODE for **High-Resolution Multi-View Stereo with Multi-Scale Feature Fusion**
+#  <p align="center">High-Resolution Multi-View Stereo with Multi-Scale Feature Fusion</p>
+
+ <p align="center">Dapeng Chen, Qi Jia, Hao Wu, Da Yu, Nanxuan Huang, and Jia Liu</p>
+  <p align="center">Nanjing University of Information Science & Technology</p>
+
 ## Acquiring Datasets
 DTU
 BlendedMVS
